@@ -29,5 +29,7 @@ python git-leak.py /path/to/repo -o leak-report.json
 ```
 
 ## Requirements
-
-`git` (must be run from within or pointed at a git repository)
+```
+git (must be run from within or pointed at a git repository)
+Ollama
+```
